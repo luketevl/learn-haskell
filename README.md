@@ -1,5 +1,9 @@
 # Haskell Functional Programming
 
+# Links
+- http://haskell.tailorfontela.com.br/types-and-typeclasses
+- http://haskell.tailorfontela.com.br/chapters
+
 ## Install
 - https://www.haskell.org/
 
